@@ -1,0 +1,7 @@
+{
+  "EnableSQLite": true,
+  "EnableMySQL": true,
+  "DefaultType": "SQLite",
+  "SQLiteConnectionString": "Data Source=knowledgebase.db",
+  "MySQLConnectionString": "Server=localhost;Port=3306;Database=knowledgebase;User=root;Password=testpwd;"
+}
