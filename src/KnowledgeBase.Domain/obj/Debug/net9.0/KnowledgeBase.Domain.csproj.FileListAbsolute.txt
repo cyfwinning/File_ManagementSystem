@@ -1,0 +1,11 @@
+E:\Qoder_Work\KnowledgeBase\src\KnowledgeBase.Domain\bin\Debug\net9.0\KnowledgeBase.Domain.deps.json
+E:\Qoder_Work\KnowledgeBase\src\KnowledgeBase.Domain\bin\Debug\net9.0\KnowledgeBase.Domain.dll
+E:\Qoder_Work\KnowledgeBase\src\KnowledgeBase.Domain\bin\Debug\net9.0\KnowledgeBase.Domain.pdb
+E:\Qoder_Work\KnowledgeBase\src\KnowledgeBase.Domain\obj\Debug\net9.0\KnowledgeBase.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Qoder_Work\KnowledgeBase\src\KnowledgeBase.Domain\obj\Debug\net9.0\KnowledgeBase.Domain.AssemblyInfoInputs.cache
+E:\Qoder_Work\KnowledgeBase\src\KnowledgeBase.Domain\obj\Debug\net9.0\KnowledgeBase.Domain.AssemblyInfo.cs
+E:\Qoder_Work\KnowledgeBase\src\KnowledgeBase.Domain\obj\Debug\net9.0\KnowledgeBase.Domain.csproj.CoreCompileInputs.cache
+E:\Qoder_Work\KnowledgeBase\src\KnowledgeBase.Domain\obj\Debug\net9.0\KnowledgeBase.Domain.dll
+E:\Qoder_Work\KnowledgeBase\src\KnowledgeBase.Domain\obj\Debug\net9.0\refint\KnowledgeBase.Domain.dll
+E:\Qoder_Work\KnowledgeBase\src\KnowledgeBase.Domain\obj\Debug\net9.0\KnowledgeBase.Domain.pdb
+E:\Qoder_Work\KnowledgeBase\src\KnowledgeBase.Domain\obj\Debug\net9.0\ref\KnowledgeBase.Domain.dll

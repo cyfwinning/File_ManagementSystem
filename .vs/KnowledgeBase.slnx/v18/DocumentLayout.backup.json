@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Qoder_Work\\KnowledgeBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{536C4CCF-C0B5-F704-ECDF-EF22C8F47C1A}|src\\KnowledgeBase.WebApi\\KnowledgeBase.WebApi.csproj|e:\\qoder_work\\knowledgebase\\src\\knowledgebase.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{536C4CCF-C0B5-F704-ECDF-EF22C8F47C1A}|src\\KnowledgeBase.WebApi\\KnowledgeBase.WebApi.csproj|solutionrelative:src\\knowledgebase.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{536C4CCF-C0B5-F704-ECDF-EF22C8F47C1A}|src\\KnowledgeBase.WebApi\\KnowledgeBase.WebApi.csproj|e:\\qoder_work\\knowledgebase\\src\\knowledgebase.webapi\\dbconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{536C4CCF-C0B5-F704-ECDF-EF22C8F47C1A}|src\\KnowledgeBase.WebApi\\KnowledgeBase.WebApi.csproj|solutionrelative:src\\knowledgebase.webapi\\dbconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Qoder_Work\\KnowledgeBase\\src\\KnowledgeBase.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\KnowledgeBase.WebApi\\appsettings.json",
+              "ToolTip": "E:\\Qoder_Work\\KnowledgeBase\\src\\KnowledgeBase.WebApi\\appsettings.json",
+              "RelativeToolTip": "src\\KnowledgeBase.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T03:02:39.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbconfig.json",
+              "DocumentMoniker": "E:\\Qoder_Work\\KnowledgeBase\\src\\KnowledgeBase.WebApi\\dbconfig.json",
+              "RelativeDocumentMoniker": "src\\KnowledgeBase.WebApi\\dbconfig.json",
+              "ToolTip": "E:\\Qoder_Work\\KnowledgeBase\\src\\KnowledgeBase.WebApi\\dbconfig.json",
+              "RelativeToolTip": "src\\KnowledgeBase.WebApi\\dbconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T03:02:33.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
